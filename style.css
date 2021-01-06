@@ -30,13 +30,14 @@ body{
     border-radius: 6px;
     padding: 10px 20px;
     color: whitesmoke;
+    margin-top: 20px;
 }
 .half-width img{
     width: 75%;
 }
 section{
-    height: 500px;
-    padding-bottom: 50px;
+    height: 400px;
+    padding-bottom: 150px;
     padding-top: 100px;
 }
 .margin-bottom{
@@ -45,6 +46,51 @@ section{
 h2{
     font-size: 45px;
 }
-.margin-top{
-    padding-top: 20px;
+.third{
+    background-color: whitesmoke;
+    height: 500px;
+}
+.third-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    
+    background-color: white;
+    border-radius: 10px;
+    height: 75%;
+    padding-left: 7px;
+}
+#middle{
+    text-align: center;
+    font-size: 42px;
+}
+.third-width img{
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.cen{
+    text-align: justify;
+    font-size: 48px;
+    width: 30%;
+    margin-top: 42px;
+    margin-left: 600px;
+    padding-top: 150px;
+    color: white;
+}
+.last{
+    background-image: url(image/shape.png);
+    background-position: center;
+    background-size: 906px 225px;
+    background-repeat: no-repeat;
+}
+.img img{
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+
+}
+.img{
+    text-align: center;
+    height: 250px;
 }
